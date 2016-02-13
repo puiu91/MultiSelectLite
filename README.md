@@ -1,6 +1,10 @@
 # MultiSelectLite
 A light javascript solution for creating an HTML component that mimics a select element but allows for multiple options to be selected at once from the dropdown.
 
+** Features **
+* dropdown is disabled when user clicks outside
+* dropdown is toggled when user clicks MultiSelectLite element 
+
 ## Browser Support
 IE9+ and all modern browsers
 
