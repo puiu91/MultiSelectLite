@@ -35,7 +35,7 @@ MultiSelectLite.setPresetSelectedOptions([
 The default message is set to ```Select Options``` but can be changed to something else.
 
 
-```
+```javascript
 MultiSelectLite.setDefaultMessage('Select filters')
 ```
 
