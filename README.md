@@ -1,10 +1,10 @@
 # MultiSelectLite
 A light javascript solution for creating an HTML component that mimics a select element but allows for multiple options to be selected at once from the dropdown.
 
-Browser Support
+## Browser Support
 IE9+ and all modern browsers
 
-**See it in action:**
+**Demo:**
 
 https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
