@@ -23,7 +23,7 @@ Pass an array of strings. Each array value is expected to have a matching ```<li
 ```
 
 **Javascript**
-```
+```javascript
 MultiSelectLite.setPresetSelectedOptions([
     'Car',
     'Train',
