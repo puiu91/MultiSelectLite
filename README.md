@@ -47,7 +47,7 @@ MultiSelectLite.setPresetSelectedOptions([
 
 ```javascript
 // store reference to hidden input field\
-var hiddenInputField = document.getElementById('suspensionReasons');
+var hiddenInputField = document.getElementById('hiddenInputField');
 ```    
 ```javascript
 /*
