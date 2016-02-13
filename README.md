@@ -53,3 +53,4 @@ MultiSelectLite.setDefaultMessage('Select filters')
 
 ## ToDo's
 * need to allow for multiple instances of a MultiSelectLite element on a page
+* need to set the default message back once a user has selected then deselected all the options picked
