@@ -6,7 +6,7 @@ A light javascript solution for creating an HTML component that mimics a select 
 * dropdown is toggled when user clicks MultiSelectLite element 
 
 ## Browser Support
-IE9+ and all modern browsers
+IE9+ and all modern browsers. Not tested on mobile devices.
 
 ## Demo ##
 
