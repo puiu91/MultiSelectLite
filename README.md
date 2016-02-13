@@ -3,7 +3,7 @@ A light javascript solution for creating an HTML component that mimics a select 
 
 **See it in action:**
 
-https://cdn.rawgit.com/puiu91/MultiSelect-Lite/master/index.html
+https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
 ## Preset Options on Instantiation
 
