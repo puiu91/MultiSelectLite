@@ -50,10 +50,10 @@ MultiSelectLite.setPresetSelectedOptions([
 var hiddenInputField = document.getElementById('hiddenInputField');
 ```    
 ```javascript
-/*
-* Add custom click event handler for when a dropdown option is clicked whose function
-* is to add selected options from MultiSelectLite to a hidden input field.
-*/
+/**
+ * Add custom click event handler for when a dropdown option is clicked whose function
+ * is to add selected options from MultiSelectLite to a hidden input field.
+ */
 MultiSelectLite.MultiSelect.select.addEventListener('click', function() {
 
     hiddenInputField.value = JSON.stringify( 
