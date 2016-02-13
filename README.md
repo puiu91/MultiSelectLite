@@ -46,7 +46,7 @@ MultiSelectLite.setPresetSelectedOptions([
 ## Passing Selected Items to a Form ##
 
 ```javascript
-// store reference to hidden input field\
+// store reference to hidden input field
 var hiddenInputField = document.getElementById('hiddenInputField');
 ```    
 ```javascript
