@@ -12,6 +12,8 @@ IE9+ and all modern browsers. Not tested on mobile devices.
 
 https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
+![Image of MultiSelectLite](https://raw.githubusercontent.com/puiu91/MultiSelectLite/master/demo.png)
+
 ## Preset Options on Instantiation
 
 Pass an array of strings. Each array value is expected to have a matching ```<li>``` element inside your HTML wherever you declare ```<ul id="MultiSelectLite-Dropdown">```
