@@ -4,7 +4,7 @@ A light javascript solution for creating an HTML component that mimics a select 
 ## Browser Support
 IE9+ and all modern browsers
 
-**Demo:**
+## Demo ##
 
 https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
