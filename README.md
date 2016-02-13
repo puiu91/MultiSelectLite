@@ -10,7 +10,7 @@ https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 Pass an array of strings. Each array value is expected to have a matching ```<li>``` element inside your HTML wherever you declare ```<ul id="MultiSelectLite-Dropdown">```
 
 **HTML**
-```
+```html
 <div id="MultiSelectLite">
     <span id="MultiSelectLite-Message">Select options</span>
     <ul id="MultiSelectLite-Dropdown">
