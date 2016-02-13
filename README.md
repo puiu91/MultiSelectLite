@@ -7,16 +7,17 @@ https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
 ## Preset Options on Instantiation
 
-Pass an array of strings. Each array key-value is expected to have a matching ```<li>``` element inside your HTML wherever you declare ```<ul id="MultiSelectLite-Dropdown">```
+Pass an array of strings. Each array value is expected to have a matching ```<li>``` element inside your HTML wherever you declare ```<ul id="MultiSelectLite-Dropdown">```
 
 **HTML**
 ```
 <div id="MultiSelectLite">
     <span id="MultiSelectLite-Message">Select options</span>
     <ul id="MultiSelectLite-Dropdown">
-        <li>Province</li>
-        <li>Territory</li>
-        <li>State</li>
+        <li>Car</li>
+        <li>Boat</li>
+        <li>Train</li>
+        <li>Airplane</li>
     </ul>
 </div>
 ```
@@ -24,17 +25,8 @@ Pass an array of strings. Each array key-value is expected to have a matching ``
 **Javascript**
 ```
 MultiSelectLite.setPresetSelectedOptions([
-    'Province',
-    'Territory',
-]);
-```
-
-change to
-
-```
-MultiSelectLite.setPresetDropdownOptions([
-    'Province',
-    'Territory',
+    'Car',
+    'Train',
 ]);
 ```
 
