@@ -22,7 +22,7 @@ https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
 ## Preset Options on Instantiation
 
-Pass an array of strings. Each array value is expected to have a matching ```<li>``` element inside your HTML wherever you declare ```<ul id="MultiSelectLite-Dropdown">```
+Pass an array of strings to the ```MultiSelectLite.setPresetSelectedOptions()``` function wherein each array value has a matching ```<li>``` element inside of ```<ul id="MultiSelectLite-Dropdown">```
 
 **HTML**
 ```html
