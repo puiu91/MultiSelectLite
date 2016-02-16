@@ -5,8 +5,8 @@ This is not intended to replace the ```<select>``` in a ```<form>``` but rather 
 
 **Features**
 * multiple options can be selected at once
-* dropdown is disabled when user clicks outside the MultiSelectLite element
 * dropdown is toggled when user clicks MultiSelectLite element
+* dropdown is disabled when user clicks outside the MultiSelectLite element
 
 **Notes and Gotchas**
 * the dropdown items list is set to a height of 300px by default, but if you have only a few items to select from, then it is better to set the height to auto - you can make the change in the CSS ```ul#MultiSelectLite-Dropdown ```
