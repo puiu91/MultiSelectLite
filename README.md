@@ -3,7 +3,7 @@ A light javascript solution for creating an HTML component that mimics a select 
 
 This is not intended to replace the ```<select>``` used in a ```<form>``` but as a standalone HTML component. However, you could easily pass the selected options to the server 
 through a ```<form>```. You could do this by hooking into MultiSelectLite to retrieve the selected options using an event listener, then json prepare the array of list items selected, 
-and then finally add them to a hidden input field. Aee the example further below.
+and then finally add them to a hidden input field. See the example further below.
 
 **Features**
 * multiple options can be selected at once
@@ -47,7 +47,7 @@ MultiSelectLite.setPresetSelectedOptions([
 ]);
 ```
 
-## Passing Selected Items to a Form ##
+## Passing Selected Items to a Form  ##
 
 ```javascript
 // store reference to hidden input field
