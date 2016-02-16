@@ -64,7 +64,7 @@ MultiSelectLite.MultiSelect.select.addEventListener('click', function() {
 
 ## Default Message
 
-The default message is set to ```Select Options``` but can be changed to something else.
+The default message is set to ```Select Options``` but can be changed to something else:
 
 
 ```javascript
