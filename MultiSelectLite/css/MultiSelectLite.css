@@ -15,8 +15,8 @@ ul {
     display: inline-block;
     outline: none;
     cursor: pointer;
-    z-index: 99;
     font-family: sans-serif;
+    z-index: 99;
 }
 
 #MultiSelectLite span#MultiSelectLite-Message {
@@ -24,10 +24,9 @@ ul {
     display: inline-block;
     width: 300px;
     padding: 6px 12px;
-    border: 1px solid #A4A4A4;
-    border-radius: 4px;    
-    border-color: #cccccc;
-    background-color: rgb(255,255,255);
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+    background-color: #FFFFFF;
     font-weight: bold;
 }
 
@@ -42,7 +41,7 @@ ul {
 ul#MultiSelectLite-Dropdown {
     position: relative;
     display: none;
-    height: auto;
+    height: 300px;
     overflow-y: scroll;
     cursor: pointer;
     border-radius: 4px;
