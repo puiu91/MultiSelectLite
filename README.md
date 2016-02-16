@@ -11,7 +11,7 @@ and then finally add them to a hidden input field. Aee the example further below
 * dropdown is toggled when user clicks MultiSelectLite element 
 
 **Notes and Gotchas**
-* you may need to change the height of the dropdown items list in CSS under the tag ```css ul#MultiSelectLite-Dropdown ``` - by default it is set to 300px, but if you have only a few options it is better to set the height to auto
+* you may need to change the height of the dropdown items list in CSS under the tag ```ul#MultiSelectLite-Dropdown ```. By default, the height is set to 300px, but if you have only a few options it is better to set the height to auto
 
 ## Browser Support
 IE9+ and all modern browsers. Not tested on mobile devices.
