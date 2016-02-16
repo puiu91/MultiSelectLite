@@ -20,6 +20,10 @@ https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
 ![Image of MultiSelectLite](https://raw.githubusercontent.com/puiu91/MultiSelectLite/master/demo.png)
 
+# Examples #
+
+Some example code and public method documentation.
+
 ## Preset Options on Instantiation
 
 Pass an array of strings to the ```MultiSelectLite.setPresetSelectedOptions()``` function wherein each array value has a matching ```<li>``` element inside of ```<ul id="MultiSelectLite-Dropdown">```
@@ -44,8 +48,6 @@ MultiSelectLite.setPresetSelectedOptions([
     'Train',
 ]);
 ```
-
-# Examples #
 
 ## Passing Selected Items to a Form  ##
 
