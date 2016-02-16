@@ -45,6 +45,8 @@ MultiSelectLite.setPresetSelectedOptions([
 ]);
 ```
 
+# Examples #
+
 ## Passing Selected Items to a Form  ##
 
 ```javascript
