@@ -77,3 +77,4 @@ MultiSelectLite.setDefaultMessage('Select filters')
 ## ToDo's
 * need to allow for multiple instances of a MultiSelectLite element on a page
 * need to reset the default message once a user has selected then deselected options
+* need to set height to auto when there are only 5 select options and to a fixed height when there are more than 5 options
