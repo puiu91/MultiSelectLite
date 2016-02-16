@@ -1,8 +1,8 @@
 # MultiSelectLite
 A light javascript solution for creating an HTML component that mimics a select element but allows for multiple options to be selected at once from the dropdown.
 
-This is not intended to replace the ```html <select>``` used in a ```html <form>``` but as a standalone HTML component. However, you could easily pass the selected options to the server 
-through a ```html form```. You could do this by hooking into MultiSelectLite to retrieve the selected options, json prepare the array of list items selected, and add them to a hidden input field.
+This is not intended to replace the ```<select>``` used in a ```<form>``` but as a standalone HTML component. However, you could easily pass the selected options to the server 
+through a ```<form>```. You could do this by hooking into MultiSelectLite to retrieve the selected options, json prepare the array of list items selected, and add them to a hidden input field.
 See the example below.
 
 **Features**
