@@ -14,13 +14,13 @@ This is not intended to replace the ```<select>``` in a ```<form>``` but rather 
 ## Browser Support
 IE9+ and presumably all modern browsers. Not tested on mobile devices.
 
-## Demo ##
+## Demo
 
 https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
 ![Image of MultiSelectLite](https://raw.githubusercontent.com/puiu91/MultiSelectLite/master/demo.png)
 
-# Examples #
+# Examples
 
 Some example code and public method documentation.
 
@@ -49,7 +49,7 @@ MultiSelectLite.setPresetSelectedOptions([
 ]);
 ```
 
-## Passing Selected Items to a Form  ##
+## Passing Selected Items to a Form
 
 ```javascript
 // store reference to hidden input field
@@ -77,10 +77,7 @@ The default message is set to ```Select Options``` but can be changed via ```Mul
 MultiSelectLite.setDefaultMessage('Select filters')
 ```
 
-**Notes**
-
-
-## ToDo's
+# ToDo's
 * need to allow for multiple instances of a MultiSelectLite element on a page
 * need to reset the default message once a user has selected then deselected options
 * need to set height to auto when there are only 5 select options and to a fixed height when there are more than 5 options
