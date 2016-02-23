@@ -39,7 +39,7 @@ ul {
 }
 
 ul#MultiSelectLite-Dropdown {
-    position: relative;
+    position: absolute;
     display: none;
     height: 300px;
     overflow-y: scroll;
