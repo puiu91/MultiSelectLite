@@ -28,8 +28,8 @@ Some example code and public method documentation.
 
 ```html
 <!-- Javascript | MultiSelectLite -->
-<link rel="stylesheet" href="js/libraries/MultiSelectLite/css/MultiSelectLite.css" /> 
-<script src="js/libraries/MultiSelectLite/js/MultiSelectLite.js"></script>
+<link rel="stylesheet" href="MultiSelectLite/css/MultiSelectLite.css" /> 
+<script src="MultiSelectLite/js/MultiSelectLite.js"></script>
 ```
 
 ## Preset Options on Instantiation
