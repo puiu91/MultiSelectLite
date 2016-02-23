@@ -24,6 +24,14 @@ https://cdn.rawgit.com/puiu91/MultiSelectLite/master/index.html
 
 Some example code and public method documentation.
 
+## Basic Include
+
+```html
+<!-- Javascript | MultiSelectLite -->
+<link rel="stylesheet" href="js/libraries/MultiSelectLite/css/MultiSelectLite.css" /> 
+<script src="js/libraries/MultiSelectLite/js/MultiSelectLite.js"></script>
+```
+
 ## Preset Options on Instantiation
 
 Pass an array of strings to the ```MultiSelectLite.setPresetSelectedOptions()``` function wherein each array value has a matching ```<li>``` element inside of ```<ul id="MultiSelectLite-Dropdown">```
