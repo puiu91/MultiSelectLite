@@ -238,6 +238,18 @@ var MultiSelectLite = (function() {
     function clearPresetSelectedOptions() {
         selectedOptions = []
         selectedOptionsTextValues = []
+
+        // remove the selected style from each list element
+        for (var key in dropdownOptions) {
+            if (dropdownOptions.hasOwnProperty(key)) {
+                removeCssClasses(
+                    dropdownOptions[key]
+                );
+            };
+        };
+
+        // update the MultiSelectLite message
+        updateMessageWithAmountOfOptionsSelected();        
     }
 
     /**
